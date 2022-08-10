@@ -3,5 +3,7 @@ int main()
 {
   int a=3,b=8;
   int add = a+b;
+  int cheng = a*b;
+  printf("a*b = %d\n",cheng);
   printf("a+b = %d\n",add);
 }
